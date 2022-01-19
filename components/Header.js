@@ -1,3 +1,3 @@
 export default function Header({ title }) {
-  return <h1 className="title">{title}</h1>
+  return <img src="/coming-soon.jpeg" width="100%" height="100%"/>
 }
